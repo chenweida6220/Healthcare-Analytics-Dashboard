@@ -17,6 +17,7 @@ This project analyzes a healthcare center’s financial performance by visualizi
 | 5 | [x] | Create an Interactive and User-Friendly Dashboard | Develop a multi-page Power BI dashboard with clear visualizations, filters, and drill-through capabilities for ease of use. |
 
 # Dashboard
+![Healthcare Analytics Dashboard Walkthrough](/dashboard%20items/healthcare%20analytics_dashboard%20walkthrough.gif)
 <table>
   <tr>
     <th>Light Mode</th>
@@ -24,10 +25,10 @@ This project analyzes a healthcare center’s financial performance by visualizi
   </tr>
   <tr>
     <td>
-      <img src="/images/Healthcare%20Provider%20Dashboard_light%20mode.png" width="400"/>
+      <img src="/dashboard items/Healthcare Provider Dashboard_light mode.png" width="400"/>
     </td>
     <td>
-      <img src="/images/Healthcare%20Provider%20Dashboard_light%20mode%20(filter).png" width="400"/>
+      <img src="/dashboard items/Healthcare Provider Dashboard_light mode (filter).png" width="400"/>
     </td>
   </tr>
   <tr>
@@ -36,10 +37,10 @@ This project analyzes a healthcare center’s financial performance by visualizi
   </tr>
   <tr>
     <td>
-      <img src="/images/Healthcare%20Provider%20Dashboard_dark%20mode.png" width="400"/>
+      <img src="/dashboard items/Healthcare Provider Dashboard_dark mode.png" width="400"/>
     </td>
     <td>
-      <img src="/images/Healthcare%20Provider%20Dashboard_dark%20mode%20(filter).png" width="400"/>
+      <img src="/dashboard items/Healthcare Provider Dashboard_dark mode (filter).png" width="400"/>
     </td>
   </tr>
 </table>
