@@ -4,7 +4,6 @@ This project analyzes a healthcare center’s financial performance by visualizi
 # Dataset
 ## Healthcare Provider Dataset
 * **Author:** Data with Decision
-* **Source:** [YouTube Link](https://www.youtube.com/watch?v=hm4Iq2Mm2pQ&pp=ygUfbXMgcG93ZXJiaSBoZWFsdGhjYXJlIGRhc2hib2FyZA%3D%3D)
 * **About:** This synthetic multi-table dataset models the operations of a healthcare center, containing relational information across patients, providers, visits, diagnoses, procedures, insurance, and departments. It is designed for financial and operational analysis, including fields such as visit dates, treatment costs, medication costs, insurance coverage, room charges, patient satisfaction, and provider details. The dataset enables analysis of billing trends, cost drivers, department performance, and provider efficiency in a realistic healthcare management context.
 
 # Objectives
